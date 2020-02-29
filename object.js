@@ -1,0 +1,10 @@
+var student = { id: 19201203062, name:"Mamun", phone:324320, blood_group:"O+"};
+console.log(student);
+var phone = student.phone;
+console.log(phone);
+var phone = 124;
+console.log(phone);
+student.phone = 1243;
+console.log(student);
+student.add = "Dhaka";
+console.log(student);
